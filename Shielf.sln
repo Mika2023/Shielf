@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shielf", "Shielf\Shielf.csproj", "{6328C328-6A9A-40F2-8D26-08098A2AE2B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Test", "Test\Test.csproj", "{4F7F0EB3-72D5-4662-AAFB-98E84C4BDC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6328C328-6A9A-40F2-8D26-08098A2AE2B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6328C328-6A9A-40F2-8D26-08098A2AE2B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6328C328-6A9A-40F2-8D26-08098A2AE2B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6328C328-6A9A-40F2-8D26-08098A2AE2B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7F0EB3-72D5-4662-AAFB-98E84C4BDC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7F0EB3-72D5-4662-AAFB-98E84C4BDC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7F0EB3-72D5-4662-AAFB-98E84C4BDC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7F0EB3-72D5-4662-AAFB-98E84C4BDC90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F5A9829-575C-49E2-A14A-18C5963200D9}
+	EndGlobalSection
+EndGlobal
